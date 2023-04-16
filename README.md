@@ -9,8 +9,13 @@ All clickable details are from the author.
 - figcaption class' part: Watch this space!
 - GitHub link
 
-## Disclaimer: 
+## Live Site
+- https://mcramileux.github.io/my-landing-page/
 
+## Licence
+This project is [MIT](https://choosealicense.com/licenses/mit/) licence.
+
+## Disclaimer: 
 All mini-projects are pseudo coded using the solved codes that was given after the class. 
 It will stated in the Contribution section how much the author has done on her own.
 The author, who is a coding bootcamp student, with no experience in coding, did a bit of tweaking 
